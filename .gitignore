@@ -3,3 +3,4 @@ venv
 .idea
 *.log
 Banana_Linux
+.vscode
